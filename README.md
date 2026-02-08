@@ -23,7 +23,6 @@ This project addresses the problem using an **autoencoder neural network** train
 - **Programming:** Python, PyTorch
 - **Data Processing:** Pandas, NumPy, Scikit-Learn  
   - `RobustScaler` used for outlier-resistant feature scaling
-- **Visualization:** Matplotlib (log-scale analysis of reconstruction error distributions)
 
 ## Methodology
 
