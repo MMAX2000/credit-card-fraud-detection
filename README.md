@@ -9,7 +9,7 @@ This project implements an **Autoencoder Neural Network** that learns a compress
 
 ## Key Results
 * **Technique:** Unsupervised Deep Autoencoder (PyTorch)
-* **Dataset:** European Credit Card Transactions (280k+ records)
+* **Dataset:** European Credit Card Transactions (280k+ records) https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 * **Performance:**
     * **Recall:** ~76% (Detected 376/492 frauds)
     * **Precision:** High precision maintenance with only ~0.5% False Positive Rate (281 false alarms out of 56k+ legitimate transactions).
